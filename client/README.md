@@ -1,8 +1,36 @@
-# React + Vite
+# BOT BATTLR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description
+a React application that displays a
+list of available bots, among other feature
+# Features
+- all bots are displayed
+- when selected, the bot is rendered to the bot army component.
+- Release a bot from my army by clicking on it
+- Discharge a bot from their service forever, by clicking the red button 
 
-Currently, two official plugins are available:
+## Installation Requirements
+Git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation instruction
+
+## Project Setup
+- clone the repo  
+```bash
+git clone git@github.com:nikitaamani/phase-2-code-challenge.git
+```
+- navigation
+```bash 
+cd -(change directory) Change directory in your terminal and access it.
+```
+- open directory on vs-code
+```bash 
+use ' code .' in your terminal it will lead to you to the vs-code.
+```
+-You can use this link and open the website to access the code.
+```bash
+
+```
+Technologies used Github Javascript
+
+Support and contact details github.com/nikitaamani
