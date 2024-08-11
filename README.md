@@ -29,7 +29,7 @@ use ' code .' in your terminal it will lead to you to the vs-code.
 ```
 -You can use this link and open the website to access the code.
 ```bash
-
+https://bot-code-challenge-gamma.vercel.app/
 ```
 Technologies used Github Javascript
 
