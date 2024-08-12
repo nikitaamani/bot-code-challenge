@@ -31,6 +31,6 @@ use ' code .' in your terminal it will lead to you to the vs-code.
 ```bash
 https://bot-code-challenge-gamma.vercel.app/
 ```
-Technologies used Github Javascript
+Technologies used Github and vite
 
 Support and contact details github.com/nikitaamani
